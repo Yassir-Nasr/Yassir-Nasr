@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yassir-Nasr
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python @ dart @ flutter 
+
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me yassiyassi58@gmail.com 
 
